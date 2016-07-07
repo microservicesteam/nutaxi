@@ -1,5 +1,7 @@
 # nutaxi
 
+![build status](https://codeship.com/projects/4a957e00-268b-0134-8593-166eddd0a5f8/status?branch=master)
+
 New generation of taxi service based on microservices architecture
 
 ### Wiki page
