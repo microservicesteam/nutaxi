@@ -1,7 +1,0 @@
-language: java
-jdk:
-  oraclejdk8
-script:
-  - mvn clean install -f sample-cassandra-spring-boot-app/pom.xml
-notifications:
-  email: false

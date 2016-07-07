@@ -1,2 +1,0 @@
-samplecassandraspringbootapp:
-  image: "@docker.image.prefix@/@project.artifactId@:@project.version@"

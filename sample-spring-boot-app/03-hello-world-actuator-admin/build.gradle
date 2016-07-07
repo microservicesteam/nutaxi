@@ -1,5 +1,0 @@
-description = ''
-dependencies {
-    compile("de.codecentric:spring-boot-admin-server:1.3.0")
-    compile("de.codecentric:spring-boot-admin-server-ui:1.3.0")
-}
