@@ -1,0 +1,7 @@
+language: java
+jdk:
+  oraclejdk8
+script:
+  - mvn clean verify -f nutaxi-cache/nutaxi-cache-client/pom.xml
+notifications:
+  email: false
