@@ -5,3 +5,5 @@ script:
   - mvn clean verify -f nutaxi-cache/nutaxi-cache-client/pom.xml
 notifications:
   email: false
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
