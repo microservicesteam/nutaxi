@@ -1,3 +1,6 @@
 [submodule "nutaxi-cache"]
 	path = nutaxi-cache
 	url = https://github.com/microservicesteam/nutaxi-cache.git
+[submodule "nutaxi-dev"]
+	path = nutaxi-dev
+	url = https://github.com/microservicesteam/nutaxi-dev.git
