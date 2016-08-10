@@ -4,3 +4,6 @@
 [submodule "nutaxi-dev"]
 	path = nutaxi-dev
 	url = https://github.com/microservicesteam/nutaxi-dev.git
+[submodule "nutaxi-dev"]
+	path = nutaxi-config-server
+	url = https://github.com/microservicesteam/nutaxi-config-server.git
