@@ -10,3 +10,6 @@
 [submodule "nutaxi-config-server"]
 	path = nutaxi-config-server
 	url = https://github.com/microservicesteam/nutaxi-config-server.git
+[submodule "nutaxi-eureka-service"]
+	path = nutaxi-eureka-service
+	url = https://github.com/microservicesteam/nutaxi-eureka-service.git
