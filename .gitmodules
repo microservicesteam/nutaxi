@@ -13,3 +13,6 @@
 [submodule "nutaxi-eureka-service"]
 	path = nutaxi-eureka-service
 	url = https://github.com/microservicesteam/nutaxi-eureka-service.git
+[submodule "nutaxi-zipkin-server"]
+	path = nutaxi-zipkin-server
+	url = https://github.com/microservicesteam/nutaxi-zipkin-server.git
