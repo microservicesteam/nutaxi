@@ -16,3 +16,6 @@
 [submodule "nutaxi-web-service"]
 	path = nutaxi-web-service
 	url = https://github.com/microservicesteam/nutaxi-web-service.git
+[submodule "nutaxi-specification"]
+	path = nutaxi-specification
+	url = https://github.com/microservicesteam/nutaxi-specification.git
